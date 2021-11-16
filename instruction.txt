@@ -1,0 +1,5 @@
+1. git init
+2. git remote add origin <repolink>
+
+Stagging
+3. git add .
