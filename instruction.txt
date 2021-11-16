@@ -3,3 +3,7 @@
 
 Stagging
 3. git add .
+Commit 
+4. git commit -m "commit name"
+Push
+5. git push origin master
